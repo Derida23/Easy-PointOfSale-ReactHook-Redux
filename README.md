@@ -44,3 +44,6 @@ Pixos is an application in the form of a website and a mobile application for pr
 <p align="center">
 <img width="400" height="192" src="https://i.ibb.co/jgrgwRp/1.png">    <img width="400" height="192" src="https://i.ibb.co/dpRrBRH/2.png">
 </p>
+<p align="center">
+<img width="400" height="192" src="https://i.ibb.co/9n0txXJ/3.png">    <img width="400" height="192" src="https://i.ibb.co/QfxM89d/4.png">
+</p>
