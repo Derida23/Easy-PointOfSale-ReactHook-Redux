@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/axios-0.19.0-brightgreen">
 <img src="https://img.shields.io/badge/react_dom-16.10.2-yellow">
 <img src="https://img.shields.io/badge/material_ui-4.5.1-purple">
-<img src="https://img.shields.io/badge/react_redux-7.1.1-orange">
+<img src="https://img.shields.io/badge/react_redux-7.1.1-orange"> 
 </p>
 
 Pixos is an application in the form of a website and a mobile application for product management, category and has a cashier system (point of sale), this application is made using React Js and React Native. there is only a website model if you interest mobile app you can visit this link [mobile app pixos](https://github.com/Derida23/PIXOS-POS-ReactNative)
